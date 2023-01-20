@@ -1,6 +1,6 @@
 If you are not using the disk then make sure to add a file for programs, paint, and a notepad directory in the user directory.
 
-To change the usermane and password use this command: edit /startup/startup.lua. There are two variables on line 10 and 11. Chane the parts that say localadmin.
+To change the usermane and password use this command: edit /startup/startup.lua. There are two variables on line 10 and 11. Change the parts that say localadmin.
 
 The passwords for over programs can be changed fron these files: uninstallpassword, commandlinepassword, and fileexplorerpassword.
 
